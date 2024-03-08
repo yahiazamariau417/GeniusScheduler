@@ -1,0 +1,26 @@
+{
+"name": "genius-cheduler-1",
+"version": "1.0.0",
+"description": "an innovative scheduling application designed to optimize your time management and enhance productivity.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yahiazamariau417/GeniusScheduler.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yahiazamariau417",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
